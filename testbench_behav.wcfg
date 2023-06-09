@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="696584172661875fs"></ZoomEndTime>
+      <Cursor1Time time="69144395000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="145"></NameColumnWidth>
+      <ValueColumnWidth column_width="81"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="32" />
+   <wvobject fp_name="/testbench/top_sim/cal_u/clk_in" type="logic">
+      <obj_property name="ElementShortName">clk_in</obj_property>
+      <obj_property name="ObjectShortName">clk_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/key" type="array">
+      <obj_property name="ElementShortName">key[1:0]</obj_property>
+      <obj_property name="ObjectShortName">key[1:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/clk_1hz" type="logic">
+      <obj_property name="ElementShortName">clk_1hz</obj_property>
+      <obj_property name="ObjectShortName">clk_1hz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/clk_1khz" type="logic">
+      <obj_property name="ElementShortName">clk_1khz</obj_property>
+      <obj_property name="ObjectShortName">clk_1khz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/day" type="array">
+      <obj_property name="ElementShortName">day[4:0]</obj_property>
+      <obj_property name="ObjectShortName">day[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/year_set" type="array">
+      <obj_property name="ElementShortName">year_set[11:0]</obj_property>
+      <obj_property name="ObjectShortName">year_set[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/led" type="array">
+      <obj_property name="ElementShortName">led[5:0]</obj_property>
+      <obj_property name="ObjectShortName">led[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/sec_set" type="array">
+      <obj_property name="ElementShortName">sec_set[5:0]</obj_property>
+      <obj_property name="ObjectShortName">sec_set[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/flag_int" type="logic">
+      <obj_property name="ElementShortName">flag_int</obj_property>
+      <obj_property name="ObjectShortName">flag_int</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/flag_ala" type="logic">
+      <obj_property name="ElementShortName">flag_ala</obj_property>
+      <obj_property name="ObjectShortName">flag_ala</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/year" type="array">
+      <obj_property name="ElementShortName">year[11:0]</obj_property>
+      <obj_property name="ObjectShortName">year[11:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/out_year1" type="array">
+      <obj_property name="ElementShortName">out_year1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">out_year1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/year_set" type="array">
+      <obj_property name="ElementShortName">year_set[11:0]</obj_property>
+      <obj_property name="ObjectShortName">year_set[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/ala_year1" type="array">
+      <obj_property name="ElementShortName">ala_year1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ala_year1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/ala_year" type="array">
+      <obj_property name="ElementShortName">ala_year[11:0]</obj_property>
+      <obj_property name="ObjectShortName">ala_year[11:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/mon_set" type="array">
+      <obj_property name="ElementShortName">mon_set[4:0]</obj_property>
+      <obj_property name="ObjectShortName">mon_set[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/mon" type="array">
+      <obj_property name="ElementShortName">mon[4:0]</obj_property>
+      <obj_property name="ObjectShortName">mon[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/ala_mon" type="array">
+      <obj_property name="ElementShortName">ala_mon[4:0]</obj_property>
+      <obj_property name="ObjectShortName">ala_mon[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/day_set" type="array">
+      <obj_property name="ElementShortName">day_set[4:0]</obj_property>
+      <obj_property name="ObjectShortName">day_set[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/day" type="array">
+      <obj_property name="ElementShortName">day[4:0]</obj_property>
+      <obj_property name="ObjectShortName">day[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/ala_day" type="array">
+      <obj_property name="ElementShortName">ala_day[4:0]</obj_property>
+      <obj_property name="ObjectShortName">ala_day[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/sw" type="array">
+      <obj_property name="ElementShortName">sw[3:0]</obj_property>
+      <obj_property name="ObjectShortName">sw[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/flag_hour" type="logic">
+      <obj_property name="ElementShortName">flag_hour</obj_property>
+      <obj_property name="ObjectShortName">flag_hour</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/hour" type="array">
+      <obj_property name="ElementShortName">hour[4:0]</obj_property>
+      <obj_property name="ObjectShortName">hour[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/ala_hour" type="array">
+      <obj_property name="ElementShortName">ala_hour[4:0]</obj_property>
+      <obj_property name="ObjectShortName">ala_hour[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/min" type="array">
+      <obj_property name="ElementShortName">min[5:0]</obj_property>
+      <obj_property name="ObjectShortName">min[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/ala_min" type="array">
+      <obj_property name="ElementShortName">ala_min[5:0]</obj_property>
+      <obj_property name="ObjectShortName">ala_min[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/sec" type="array">
+      <obj_property name="ElementShortName">sec[5:0]</obj_property>
+      <obj_property name="ObjectShortName">sec[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/ala_sec" type="array">
+      <obj_property name="ElementShortName">ala_sec[5:0]</obj_property>
+      <obj_property name="ObjectShortName">ala_sec[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/hour_set" type="array">
+      <obj_property name="ElementShortName">hour_set[4:0]</obj_property>
+      <obj_property name="ObjectShortName">hour_set[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/key_flag0" type="logic">
+      <obj_property name="ElementShortName">key_flag0</obj_property>
+      <obj_property name="ObjectShortName">key_flag0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/top_sim/cal_u/key_flag1" type="logic">
+      <obj_property name="ElementShortName">key_flag1</obj_property>
+      <obj_property name="ObjectShortName">key_flag1</obj_property>
+   </wvobject>
+</wave_config>
